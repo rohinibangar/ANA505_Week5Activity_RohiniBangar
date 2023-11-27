@@ -3,7 +3,6 @@ download.file(url = "https://projects.fivethirtyeight.com/soccer-api/internation
 WorldCup<- read.csv("WorldCup.csv")
 
 str(WorldCup)
-head(WorldCup)
 summary(WorldCup)
 View(WorldCup)
 
